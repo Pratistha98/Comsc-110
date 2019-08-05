@@ -1,0 +1,12 @@
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+cali  1998   jan    9.9	   90.8
+
+EOF
